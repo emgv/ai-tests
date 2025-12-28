@@ -30,3 +30,7 @@
       OLLAMA_HOST=http://localhost:11434
       OLLAMA_MODEL=llama3.2:1b
       ```
+3. Install python requirements
+   ```
+   pip install -r requirements.txt
+   ```
